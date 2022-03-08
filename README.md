@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I work on Iris!
+pretty cool stuff, https://irisshaders.net
 
 <!--
 **IMS212/IMS212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
