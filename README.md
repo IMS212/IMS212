@@ -1,4 +1,4 @@
-### Hi, I work on Iris!
+### Hi, I work on Iris, a Java-based mod, alongside other smaller projects!
 pretty cool stuff, https://irisshaders.net
 
 <!--
