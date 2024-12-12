@@ -1,5 +1,5 @@
 ### Hi, I work on Iris and Sodium, Java-based Minecraft rendering mods, alongside other smaller projects!
-pretty cool stuff, https://irisshaders.net
+pretty cool stuff, https://irisshaders.dev
 
 <!--
 **IMS212/IMS212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
